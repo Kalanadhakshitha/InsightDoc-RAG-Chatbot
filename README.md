@@ -28,6 +28,7 @@ Orchestration: LangChain
 
 📸 Demo
 
+<img width="1920" height="1080" alt="Screenshot (356)" src="https://github.com/user-attachments/assets/97a403d5-ef4d-4c72-a46e-a600bc62f409" />
 
 
 
